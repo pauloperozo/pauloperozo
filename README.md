@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Paulo<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Paulo...<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Tux_Mono.svg" height="55" alt="logo"  /></h1>
 <h3 font-size="20" align="center">A passionate backend developer from Venezuela 🇻🇪 </h3>
 
 
@@ -64,3 +64,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloperozo&show_icons=true&theme=dark&locale=en&layout=compact" alt="pauloperozo" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloperozo&" alt="pauloperozo" /></p>
+
