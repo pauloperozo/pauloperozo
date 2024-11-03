@@ -59,9 +59,12 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
-###
 ----
-
+## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloperozo&show_icons=true&theme=dark&locale=en&layout=compact" alt="pauloperozo" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloperozo&" alt="pauloperozo" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pauloperozo&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
+
 
